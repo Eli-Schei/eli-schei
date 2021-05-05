@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Eli Schei, I live in Ski, Norway, and I currently work as a consultant at [Point Taken AS](https://pointtaken.no/). 
+My name is Eli Schei, I live in Ski, Norway, and I currently work as a consultant at [Point Taken AS](https://pointtaken.no/).
+
 I mostly work in the M365-sphere, but I recently joined 'Team Web' at [nho.no](https://nho.no) where I get to play with episerver and vue.js (and I'm new to both, so a lot of learning going on - which I love).
 
 ### Blog
