@@ -33,7 +33,7 @@ export default function AllPosts() {
       <div>
         {allPostsData &&
           allPostsData.map((post, index) => (
-            <Link to={"/" + post.slug.current} key={post.slug.current}>
+            <Link to={"/blog/" + post.slug.current} key={post.slug.current}>
               <span key={index}>
                 <span>
                   <h2>{post.title}</h2>
