@@ -1,10 +1,4 @@
 ## Hi there
-<a href="https://twitter.com/acupof_dev">
-    <img style="width:25px" src="./assets/twitter.png" />
-</a>
-<a href="https://no.linkedin.com/in/eli-h-schei-80013b24">
-        <img style="width:25px" src="./assets/linkedin.png" />
-</a>
 
 I’m so glad that you found my little corner of the internet, or the GitHub corner at least (I also have a blog, see below for more information about that).
 
