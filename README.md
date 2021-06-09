@@ -21,10 +21,10 @@ You can find my blog on  [acupof.dev](https://acupof.dev)
 
 ### Featured blogposts: 
 
-<a href="https://elischei.com/a-beginners-guide-to-web-accessibility-for-developers-part-1-introduction/"><img alt="Header image for blogpost 1. You can se part of a mouse and a tablet. Theres a white area on top with the blogpost heading-text on." style="width:350px; border-radius:6px; float: left; margin: 10px 10px 10px 0" src="./assets/a11y-par1.jpg" /><a>
-<a href="https://elischei.com/web-accessibility-for-developers-5-principles-you-should-start-implementing-now"><img alt="Header image for blogpost 2. You can see part of a keyboard and a cup of coffee. Theres a white area on top with the blogpost heading-text on." style="width:350px; border-radius:6px; float: left; margin: 10px 10px 10px 0" src="./assets/a11y-par2-small.jpg" /><a>
-<a href="https://elischei.com/favorite-podcasts-for-front-end-developers/"><img alt="Header image for blogpost 3. You can see a phone laying on a table with headphones in. Theres a white area on top with the blogpost heading-text on." style="width:350px; border-radius:6px; float: left; margin: 10px 10px 10px 0" src="./assets\favorite-podcasts.jpg" /><a>
-<a href="https://elischei.com/deploy-your-spfx-solution-using-pnp-powershell/"><img style="width:350px; border-radius:6px; float: left; margin: 10px 10px 10px 0" src="./assets/deploy-spfx.jpg" /><a>
+<a href="https://elischei.com/a-beginners-guide-to-web-accessibility-for-developers-part-1-introduction/"><img alt="Header image for blogpost 1. You can se part of a mouse and a tablet. Theres a white area on top with the blogpost heading-text on." style="max-width:350px; border-radius:6px; float: left; margin: 10px 10px 10px 0" src="./assets/a11y-par1.jpg" /><a>
+<a href="https://elischei.com/web-accessibility-for-developers-5-principles-you-should-start-implementing-now"><img alt="Header image for blogpost 2. You can see part of a keyboard and a cup of coffee. Theres a white area on top with the blogpost heading-text on." style="max-width:350px; border-radius:6px; float: left; margin: 10px 10px 10px 0" src="./assets/a11y-par2-small.jpg" /><a>
+<a href="https://elischei.com/favorite-podcasts-for-front-end-developers/"><img alt="Header image for blogpost 3. You can see a phone laying on a table with headphones in. Theres a white area on top with the blogpost heading-text on." style="max-width:350px; border-radius:6px; float: left; margin: 10px 10px 10px 0" src="./assets\favorite-podcasts.jpg" /><a>
+<a href="https://elischei.com/deploy-your-spfx-solution-using-pnp-powershell/"><img style="max-width:350px; border-radius:6px; float: left; margin: 10px 10px 10px 0" src="./assets/deploy-spfx.jpg" /><a>
 
 
 
