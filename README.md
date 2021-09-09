@@ -24,8 +24,3 @@ You can find my blog on  [acupof.dev](https://acupof.dev)
 <a href="https://elischei.com/a-beginners-guide-to-web-accessibility-for-developers-part-3-a-look-at-some-more-complex-challenges/"><img alt="Header image for blogpost 2. You can se part of a mouse and a tablet. Theres a white area on top with the blogpost heading-text on." style="width:350px; border-radius:6px; float: left; margin: 10px 10px 10px 0" src="./assets/a11y-par3-1.jpg" /><a>
 <a href="https://elischei.com/web-accessibility-for-developers-5-principles-you-should-start-implementing-now"><img alt="Header image for blogpost 3. You can see part of a keyboard and a cup of coffee. Theres a white area on top with the blogpost heading-text on." style="width:350px; border-radius:6px; float: left; margin: 10px 10px 10px 0" src="./assets/a11y-par2-small.jpg" /><a>
 <a href="https://elischei.com/5-must-have-extensions-when-working-with-sharepoint-framework-spfx/"><img alt="Header image for blogpost 1. You can see a keyboard and part of a laptop from above. Theres a white area on top with the blogpost heading-text on." style="width:350px; border-radius:6px; float: left; margin: 10px 10px 10px 0" src="./assets\must-have-extensions.jpg" /><a> 
-
-
-
-
-
