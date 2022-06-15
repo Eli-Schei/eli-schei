@@ -1,3 +1,4 @@
+[![A cup of dev on Twitter](https://img.shields.io/badge/Twitter-%40acupof_dev-blue?style=flat-square)](https://twitter.com/acupof_dev)
 <img style="max-width:900px" src="./assets/mixed-media-illustration.jpg" />
 
 ## Hi there
