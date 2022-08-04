@@ -36,14 +36,12 @@ You can find my blog on  [acupof.dev](https://acupof.dev)
 ### Illustrations 
 ![Illustration of a girl waring a flower crown](https://elischei.com/wp-content/uploads/2021/05/lexaFlatlay2-300x240.jpg)
 ![Illustration of birds landing on a hand](https://elischei.com/wp-content/uploads/2021/05/0811aBirdInTheHand-1-300x240.jpg)
-![Ballpoint drawing of flowers](https://elischei.com/wp-content/uploads/2021/05/0821aPopOfColor4-1-300x240.jpg)
   
 I’ve been drawing my whole life and even concidered doing it for a living. I’m glad became a programmer instead, but I still love to play around with ink/ballpoint pens, pencil and watercolor.
   
 ### Knitting
 ![Closeup of baby waring a knittet jacket](https://elischei.com/wp-content/uploads/2021/05/Jakke_striper_500px_740x-300x240.jpg)
 ![Closeup of two kids wearing a knittet shorts](https://elischei.com/wp-content/uploads/2021/05/stripeshorts_500px_740x-300x240.jpg)
-  ![Closeup of a baby waring a knittet romper](https://elischei.com/wp-content/uploads/2021/05/Bilde23.10.2020_091419_740x-300x240.jpg)
   
-When I was on maternityleave with my youngest I started to design knittingpatterns as a hobby. If you understand norwegian I even have a webshop where you can buy my patterns.
+When I was on maternityleave with my youngest I started to design knittingpatterns as a hobby. If you understand norwegian I [even have a webshop where you can buy my patterns](https://www.ravelry.com/stores/mini--minsten).
 
