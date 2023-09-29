@@ -7,7 +7,7 @@ I’m so glad that you found my little corner of the internet, or the GitHub cor
 
 ### So, who am I you might ask? 
 
-Well, I'm Eli, a mother of two beautiful little girls (3yo and 5yo), wife to a handsome man ([who is also on GitHub](https://github.com/EspenSchei) 🤓 ), and also - **I'm a front end developer**. I live just south of Oslo, Norway, and I currently work as a consultant at [Point Taken AS](https://pointtaken.no/).
+Well, I'm Eli, a mother of two beautiful little girls (3.5yo and 6yo), wife to a handsome man ([who is also on GitHub](https://github.com/EspenSchei) 🤓 ), and also - **I'm a front end developer**. I live just south of Oslo, Norway, and I currently work as a consultant at [Point Taken AS](https://pointtaken.no/).
 
 ### Skillz
 I mostly work in the Microsoft 365-sphere, and I have been since 2013 (or the SharePoint-sphere before M365 was a thing). So my set of skills are fairly specialiced around that. Luckily the platform has evolved during the last few years so M365 development are now similar to any other web development. I'm most happy if I get to play around with React and create cool stuff - and make it look nice. 💁
