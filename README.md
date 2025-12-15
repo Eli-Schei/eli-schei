@@ -22,13 +22,13 @@ You can find my blog on  [acupof.dev](https://acupof.dev)
 
 ### Featured blogposts: 
 
-* #### [How to update field values in SharePoint using Microsoft Graph](https://elischei.com/how-to-update-field-values-in-sharepoint-using-microsoft-graph/)
+* #### [Give your app granular permissions to a specific site or list in SharePoint](https://elischei.com/give-your-app-granular-permissions-to-a-specific-site-or-list-in-sharepoint/)
 
-* #### [Upload files to SharePoint with JavaScript using Microsoft Graph and MSAL](https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/)
+* #### [How to leverage teams-js in your Teams app; Working with user context and SharePoint site context](https://elischei.com/how-to-leverage-teams-js-in-your-teams-app-working-with-user-context-and-sharepoint-site-context/)
 
 * #### [A collection of resources for Microsoft 365 Developers](https://elischei.com/a-collection-of-resources-for-microsoft-365-developers/)
 
-* #### [A comprehensive huide to Power Apps Component Framework (PCF) - part 1: Getting started](https://elischei.com/a-comprehensive-guide-to-power-apps-component-framework-pcf-part-1-getting-started)
+* #### [Package and deploy SPfx solutions using PnP PowerShell](https://elischei.com/package-and-deploy-spfx-solutions-using-pnp-powershell/)
 
 
 ## Ink and yarn
